@@ -1,1 +1,1 @@
-📊 Sales Dashboard 
+Sales Dashboard 

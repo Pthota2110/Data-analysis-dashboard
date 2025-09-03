@@ -1,4 +1,4 @@
-# ** Sales Dashboard **
+# **Sales Dashboard**
 ## **Overview**
 This project is a Power BI dashboard that transforms raw sales data into actionable insights, allowing users to analyze revenue, profit/loss, customer behavior, and product performance across multiple regions.
 ## ** Project Objective**
